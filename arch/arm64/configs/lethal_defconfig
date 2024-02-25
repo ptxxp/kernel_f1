@@ -5289,9 +5289,13 @@ CONFIG_MACH_XIAOMI_E10=y
 # CONFIG_MACH_XIAOMI_E1S is not set
 # CONFIG_MACH_XIAOMI_E8 is not set
 # CONFIG_MACH_XIAOMI_E5 is not set
+<<<<<<< HEAD:arch/arm64/configs/lethal_defconfig
 CONFIG_BERYLLIUM=y
 # KernelSU
 CONFIG_KPROBES=y
 CONFIG_KPROBE_EVENTS=y
 CONFIG_OVERLAY_FS_REDIRECT_DIR=y
 CONFIG_OVERLAY_FS_INDEX=y
+=======
+CONFIG_BERYLLIUM=y
+>>>>>>> parent of fd8357a83f68 (defconfig: beryllium dipper Enable kernelsu):arch/arm64/configs/nogravity_defconfig
